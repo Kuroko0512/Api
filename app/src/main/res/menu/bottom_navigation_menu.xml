@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@id/navegacionuno"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Inicio" />
+    <item
+        android:id="@id/navegaciondos"
+        android:icon="@drawable/baseline_restaurant_menu_24"
+        android:title="Carta" />
+    <item
+        android:id="@id/navegaciontres"
+        android:icon="@drawable/baseline_shopping_cart_24"
+        android:title="Pedido" />
+</menu>
